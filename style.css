@@ -9,14 +9,14 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 65px;
     margin: 0px;
     padding: 0px;
 }
 
 .paragraph {
     text-align: justify;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     font-size: larger;
     font-weight: 100;
 }
@@ -24,7 +24,7 @@ h1 {
 .link-button {
     text-decoration: dotted;
     color: black;
-    padding: 10px 40px;
+    padding: 15px 30px;
     border-radius: 30px;
     background-image: linear-gradient(rgb(236, 177, 68), rgb(233, 37, 37));
 }
@@ -44,8 +44,16 @@ h1 {
 }
 
 .div2 {
-    width: 50%;
+    width: 55%;
     padding-top: 2%;
     padding-left: 0px;
     margin: 0%;
+}
+
+.section-padding {
+    padding-bottom: 70px;
+}
+
+.div3 img {
+    width: 168%;
 }
