@@ -19,6 +19,11 @@ h3 {
     color: grey;
 }
 
+h2 {
+    font-size: 40px;
+    color: grey;
+}
+
 .paragraph1 {
     text-align: justify;
     margin-bottom: 50px;
@@ -29,6 +34,10 @@ h3 {
 .paragraph2 {
     margin-bottom: 50px;
     text-align: justify;
+}
+
+.paragraph3 {
+    margin-bottom: 50px;
 }
 
 .link-button {
@@ -80,4 +89,8 @@ h3 {
     left: 70%;
     transform: translate(-50%, -50%);
     text-align: left;
+}
+
+.div5 {
+    text-align: center;
 }
