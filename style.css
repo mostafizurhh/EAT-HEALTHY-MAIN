@@ -1,5 +1,6 @@
 body {
     font-family: 'Edu SA Beginner', cursive;
+    padding: 3%;
 }
 
 .orange {
@@ -23,4 +24,10 @@ h1 {
     padding: 10px 40px;
     border-radius: 30px;
     background-image: linear-gradient(rgb(236, 177, 68), rgb(233, 37, 37));
+}
+
+.display-flex {
+    display: flex;
+    padding: 0%;
+    margin: 0%;
 }
