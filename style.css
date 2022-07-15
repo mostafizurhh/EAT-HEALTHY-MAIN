@@ -11,3 +11,16 @@ h1 {
     margin: 0px;
     padding: 0px;
 }
+
+.paragraph {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.link-button {
+    text-decoration: dotted;
+    color: black;
+    padding: 10px 40px;
+    border-radius: 30px;
+    background-image: linear-gradient(rgb(236, 177, 68), rgb(233, 37, 37));
+}
