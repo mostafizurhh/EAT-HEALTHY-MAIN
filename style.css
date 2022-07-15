@@ -27,10 +27,8 @@ h3 {
 }
 
 .paragraph2 {
-    text-align: left;
     margin-bottom: 50px;
-    font-size: 20px;
-    width: 50%;
+    text-align: justify;
 }
 
 .link-button {
@@ -66,6 +64,20 @@ h3 {
     padding-bottom: 70px;
 }
 
+.div3 {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
 .div3 img {
-    width: 168%;
+    width: 100%;
+}
+
+.div4 {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    text-align: left;
 }
