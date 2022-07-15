@@ -14,11 +14,23 @@ h1 {
     padding: 0px;
 }
 
-.paragraph {
+h3 {
+    font-size: 30px;
+    color: grey;
+}
+
+.paragraph1 {
     text-align: justify;
     margin-bottom: 50px;
     font-size: larger;
     font-weight: 100;
+}
+
+.paragraph2 {
+    text-align: left;
+    margin-bottom: 50px;
+    font-size: 20px;
+    width: 50%;
 }
 
 .link-button {
