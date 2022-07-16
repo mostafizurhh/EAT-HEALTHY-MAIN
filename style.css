@@ -25,10 +25,17 @@ h3 {
 }
 
 h4 {
-    font-size: 35px;
+    font-size: 20px;
     font-weight: bold;
     margin: 0%;
     padding: 0%;
+}
+
+h5 {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0%;
+    margin: 0%;
 }
 
 .paragraph1 {
@@ -149,4 +156,20 @@ h4 {
     margin: 60px;
     border-radius: 15px;
     box-shadow: 3px 3px 7px rgb(194, 189, 189);
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.green {
+    color: rgba(90, 116, 90, 0.803);
+}
+
+.yellow {
+    color: rgba(227, 229, 86, 0.774);
 }
